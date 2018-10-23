@@ -1,0 +1,3 @@
+﻿  PrefixCode.cpp
+e:\projectinfoter\introkcode\introkcode\prefixcode.cpp(91): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  IntroKCODE.vcxproj -> E:\ProjectInfoTer\IntroKCODE\Debug\IntroKCODE.exe

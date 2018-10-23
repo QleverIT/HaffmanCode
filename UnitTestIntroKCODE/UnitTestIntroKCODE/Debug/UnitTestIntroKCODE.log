@@ -1,0 +1,11 @@
+﻿  TestHaffmanCode.cpp
+c:\users\yulay\documents\время\3 курс 2-полугодие\теория информации\introkcode\introkcode\haffmancode.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yulay\documents\время\3 курс 2-полугодие\теория информации\introkcode\introkcode\haffmancode.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+  TestHaffmanTree.cpp
+c:\users\yulay\documents\время\3 курс 2-полугодие\теория информации\introkcode\introkcode\haffmantree.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+  TestNode.cpp
+  TestPrefix.cpp
+c:\users\yulay\documents\время\3 курс 2-полугодие\теория информации\introkcode\introkcode\prefixcode.cpp(91): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  TestTransformBits.cpp
+  Создание кода...
+  UnitTestIntroKCODE.vcxproj -> C:\Users\Yulay\Documents\Время\3 курс 2-полугодие\Теория информации\UnitTestIntroKCODE\Debug\UnitTestIntroKCODE.dll
